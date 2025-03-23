@@ -3,7 +3,6 @@ pandas==1.5.3
 plotly
 numpy
 matplotlib
-sqlite3  
 requests
 requests-cache  #dependencies used in the weather-fetching logic
 retry-requests  #dependencies used in the weather-fetching logic
